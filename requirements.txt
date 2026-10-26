@@ -1,0 +1,2 @@
+# Data cleaning, tested with Python 3.12.14.
+pandas==3.0.1
